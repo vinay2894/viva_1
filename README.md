@@ -4,12 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![4_eco](https://github.com/vinay2894/viva_1/assets/124561158/3a93c916-4108-4cae-950e-15a2df23ede8)
 
-A few resources to get you started if this is your first Flutter project:
-
--"C:\Users\vinay\OneDrive\Pictures\Screenshots\Screenshot 2023-10-11 142904.png"
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
